@@ -3,6 +3,10 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+
+[![name](https://dev.azure.com/ErdalMersinlioglu/SM%20Team%20Schulung/_apis/build/status/emersinlioglu.calculator%20(1)?branchName=master)](https://dev.azure.com/ErdalMersinlioglu/SM%20Team%20Schulung/_apis/build/status/emersinlioglu.calculator%20(1)?branchName=master)
+
+
 ![alt text](https://dev.azure.com/ErdalMersinlioglu/SM%20Team%20Schulung/_apis/build/status/emersinlioglu.calculator%20(1)?branchName=master)
 
 
